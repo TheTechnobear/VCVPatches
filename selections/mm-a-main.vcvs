@@ -1,0 +1,189 @@
+{
+  "modules": [
+    {
+      "id": 6605728097195234,
+      "plugin": "MetaMorph",
+      "model": "Switch",
+      "version": "2.1.11",
+      "params": [
+        {
+          "value": 8.0,
+          "id": 0
+        },
+        {
+          "value": 8.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        }
+      ],
+      "rightModuleId": 7214566279262076,
+      "pos": [
+        -100,
+        2
+      ]
+    },
+    {
+      "id": 3326394497430011,
+      "plugin": "MetaMorph",
+      "model": "EigenHarp",
+      "version": "2.1.11",
+      "params": [
+        {
+          "value": 4.0,
+          "id": 0
+        },
+        {
+          "value": 8.0,
+          "id": 1
+        },
+        {
+          "value": 4.0,
+          "id": 2
+        }
+      ],
+      "data": {
+        "filterDeviceType": 0,
+        "filterDeviceNum": 0,
+        "slewRateIdx": 0
+      },
+      "pos": [
+        -100,
+        1
+      ]
+    },
+    {
+      "id": 7214566279262076,
+      "plugin": "MetaMorph",
+      "model": "Switch",
+      "version": "2.1.11",
+      "params": [
+        {
+          "value": 8.0,
+          "id": 0
+        },
+        {
+          "value": 8.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        }
+      ],
+      "leftModuleId": 6605728097195234,
+      "pos": [
+        -82,
+        2
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 809155505959513,
+      "outputModuleId": 3326394497430011,
+      "outputId": 13,
+      "inputModuleId": 7214566279262076,
+      "inputId": 3,
+      "color": "#3695ef"
+    },
+    {
+      "id": 4280977583154856,
+      "outputModuleId": 3326394497430011,
+      "outputId": 12,
+      "inputModuleId": 7214566279262076,
+      "inputId": 2,
+      "color": "#8b4ade"
+    },
+    {
+      "id": 4757896492221855,
+      "outputModuleId": 3326394497430011,
+      "outputId": 14,
+      "inputModuleId": 7214566279262076,
+      "inputId": 4,
+      "color": "#f3374b"
+    },
+    {
+      "id": 5327640953154886,
+      "outputModuleId": 3326394497430011,
+      "outputId": 15,
+      "inputModuleId": 7214566279262076,
+      "inputId": 5,
+      "color": "#ffb437"
+    },
+    {
+      "id": 5474393513675595,
+      "outputModuleId": 3326394497430011,
+      "outputId": 16,
+      "inputModuleId": 7214566279262076,
+      "inputId": 6,
+      "color": "#00b56e"
+    },
+    {
+      "id": 5198473901771518,
+      "outputModuleId": 7214566279262076,
+      "outputId": 0,
+      "inputModuleId": 3326394497430011,
+      "inputId": 1,
+      "color": "#3695ef"
+    },
+    {
+      "id": 1298814449518799,
+      "outputModuleId": 3326394497430011,
+      "outputId": 17,
+      "inputModuleId": 6605728097195234,
+      "inputId": 2,
+      "color": "#00b56e"
+    },
+    {
+      "id": 7558520330826339,
+      "outputModuleId": 3326394497430011,
+      "outputId": 18,
+      "inputModuleId": 6605728097195234,
+      "inputId": 3,
+      "color": "#f3374b"
+    },
+    {
+      "id": 2189288614534430,
+      "outputModuleId": 3326394497430011,
+      "outputId": 19,
+      "inputModuleId": 6605728097195234,
+      "inputId": 4,
+      "color": "#ffb437"
+    },
+    {
+      "id": 511405808531539,
+      "outputModuleId": 3326394497430011,
+      "outputId": 20,
+      "inputModuleId": 6605728097195234,
+      "inputId": 5,
+      "color": "#00b56e"
+    },
+    {
+      "id": 3971712254336268,
+      "outputModuleId": 3326394497430011,
+      "outputId": 21,
+      "inputModuleId": 6605728097195234,
+      "inputId": 6,
+      "color": "#3695ef"
+    },
+    {
+      "id": 4710988916403273,
+      "outputModuleId": 6605728097195234,
+      "outputId": 0,
+      "inputModuleId": 3326394497430011,
+      "inputId": 2,
+      "color": "#8b4ade"
+    }
+  ]
+}

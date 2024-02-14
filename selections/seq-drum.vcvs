@@ -1,0 +1,1044 @@
+{
+  "modules": [
+    {
+      "id": 489525482412301,
+      "plugin": "CountModula",
+      "model": "GateSequencer16",
+      "version": "2.5.0",
+      "params": [
+        {
+          "value": 1.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.0,
+          "id": 3
+        },
+        {
+          "value": 1.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 1.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        },
+        {
+          "value": 0.0,
+          "id": 10
+        },
+        {
+          "value": 0.0,
+          "id": 11
+        },
+        {
+          "value": 1.0,
+          "id": 12
+        },
+        {
+          "value": 0.0,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.0,
+          "id": 15
+        },
+        {
+          "value": 0.0,
+          "id": 16
+        },
+        {
+          "value": 0.0,
+          "id": 17
+        },
+        {
+          "value": 0.0,
+          "id": 18
+        },
+        {
+          "value": 0.0,
+          "id": 19
+        },
+        {
+          "value": 0.0,
+          "id": 20
+        },
+        {
+          "value": 0.0,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.0,
+          "id": 23
+        },
+        {
+          "value": 1.0,
+          "id": 24
+        },
+        {
+          "value": 0.0,
+          "id": 25
+        },
+        {
+          "value": 1.0,
+          "id": 26
+        },
+        {
+          "value": 0.0,
+          "id": 27
+        },
+        {
+          "value": 0.0,
+          "id": 28
+        },
+        {
+          "value": 0.0,
+          "id": 29
+        },
+        {
+          "value": 0.0,
+          "id": 30
+        },
+        {
+          "value": 0.0,
+          "id": 31
+        },
+        {
+          "value": 0.0,
+          "id": 32
+        },
+        {
+          "value": 0.0,
+          "id": 33
+        },
+        {
+          "value": 0.0,
+          "id": 34
+        },
+        {
+          "value": 0.0,
+          "id": 35
+        },
+        {
+          "value": 0.0,
+          "id": 36
+        },
+        {
+          "value": 1.0,
+          "id": 37
+        },
+        {
+          "value": 0.0,
+          "id": 38
+        },
+        {
+          "value": 0.0,
+          "id": 39
+        },
+        {
+          "value": 0.0,
+          "id": 40
+        },
+        {
+          "value": 0.0,
+          "id": 41
+        },
+        {
+          "value": 0.0,
+          "id": 42
+        },
+        {
+          "value": 0.0,
+          "id": 43
+        },
+        {
+          "value": 0.0,
+          "id": 44
+        },
+        {
+          "value": 1.0,
+          "id": 45
+        },
+        {
+          "value": 0.0,
+          "id": 46
+        },
+        {
+          "value": 0.0,
+          "id": 47
+        },
+        {
+          "value": 0.0,
+          "id": 48
+        },
+        {
+          "value": 1.0,
+          "id": 49
+        },
+        {
+          "value": 0.0,
+          "id": 50
+        },
+        {
+          "value": 0.0,
+          "id": 51
+        },
+        {
+          "value": 0.0,
+          "id": 52
+        },
+        {
+          "value": 0.0,
+          "id": 53
+        },
+        {
+          "value": 0.0,
+          "id": 54
+        },
+        {
+          "value": 0.0,
+          "id": 55
+        },
+        {
+          "value": 0.0,
+          "id": 56
+        },
+        {
+          "value": 0.0,
+          "id": 57
+        },
+        {
+          "value": 0.0,
+          "id": 58
+        },
+        {
+          "value": 0.0,
+          "id": 59
+        },
+        {
+          "value": 0.0,
+          "id": 60
+        },
+        {
+          "value": 0.0,
+          "id": 61
+        },
+        {
+          "value": 0.0,
+          "id": 62
+        },
+        {
+          "value": 0.0,
+          "id": 63
+        },
+        {
+          "value": 0.0,
+          "id": 64
+        },
+        {
+          "value": 0.0,
+          "id": 65
+        },
+        {
+          "value": 0.0,
+          "id": 66
+        },
+        {
+          "value": 0.0,
+          "id": 67
+        },
+        {
+          "value": 0.0,
+          "id": 68
+        },
+        {
+          "value": 0.0,
+          "id": 69
+        },
+        {
+          "value": 0.0,
+          "id": 70
+        },
+        {
+          "value": 0.0,
+          "id": 71
+        },
+        {
+          "value": 0.0,
+          "id": 72
+        },
+        {
+          "value": 0.0,
+          "id": 73
+        },
+        {
+          "value": 1.0,
+          "id": 74
+        },
+        {
+          "value": 0.0,
+          "id": 75
+        },
+        {
+          "value": 0.0,
+          "id": 76
+        },
+        {
+          "value": 0.0,
+          "id": 77
+        },
+        {
+          "value": 0.0,
+          "id": 78
+        },
+        {
+          "value": 0.0,
+          "id": 79
+        },
+        {
+          "value": 0.0,
+          "id": 80
+        },
+        {
+          "value": 0.0,
+          "id": 81
+        },
+        {
+          "value": 0.0,
+          "id": 82
+        },
+        {
+          "value": 0.0,
+          "id": 83
+        },
+        {
+          "value": 0.0,
+          "id": 84
+        },
+        {
+          "value": 0.0,
+          "id": 85
+        },
+        {
+          "value": 0.0,
+          "id": 86
+        },
+        {
+          "value": 0.0,
+          "id": 87
+        },
+        {
+          "value": 0.0,
+          "id": 88
+        },
+        {
+          "value": 0.0,
+          "id": 89
+        },
+        {
+          "value": 0.0,
+          "id": 90
+        },
+        {
+          "value": 0.0,
+          "id": 91
+        },
+        {
+          "value": 0.0,
+          "id": 92
+        },
+        {
+          "value": 0.0,
+          "id": 93
+        },
+        {
+          "value": 0.0,
+          "id": 94
+        },
+        {
+          "value": 0.0,
+          "id": 95
+        },
+        {
+          "value": 1.0,
+          "id": 96
+        },
+        {
+          "value": 0.0,
+          "id": 97
+        },
+        {
+          "value": 1.0,
+          "id": 98
+        },
+        {
+          "value": 0.0,
+          "id": 99
+        },
+        {
+          "value": 0.0,
+          "id": 100
+        },
+        {
+          "value": 1.0,
+          "id": 101
+        },
+        {
+          "value": 0.0,
+          "id": 102
+        },
+        {
+          "value": 0.0,
+          "id": 103
+        },
+        {
+          "value": 0.0,
+          "id": 104
+        },
+        {
+          "value": 1.0,
+          "id": 105
+        },
+        {
+          "value": 0.0,
+          "id": 106
+        },
+        {
+          "value": 0.0,
+          "id": 107
+        },
+        {
+          "value": 0.0,
+          "id": 108
+        },
+        {
+          "value": 1.0,
+          "id": 109
+        },
+        {
+          "value": 1.0,
+          "id": 110
+        },
+        {
+          "value": 1.0,
+          "id": 111
+        },
+        {
+          "value": 0.0,
+          "id": 112
+        },
+        {
+          "value": 0.0,
+          "id": 113
+        },
+        {
+          "value": 0.0,
+          "id": 114
+        },
+        {
+          "value": 0.0,
+          "id": 115
+        },
+        {
+          "value": 0.0,
+          "id": 116
+        },
+        {
+          "value": 0.0,
+          "id": 117
+        },
+        {
+          "value": 0.0,
+          "id": 118
+        },
+        {
+          "value": 0.0,
+          "id": 119
+        },
+        {
+          "value": 0.0,
+          "id": 120
+        },
+        {
+          "value": 0.0,
+          "id": 121
+        },
+        {
+          "value": 0.0,
+          "id": 122
+        },
+        {
+          "value": 0.0,
+          "id": 123
+        },
+        {
+          "value": 0.0,
+          "id": 124
+        },
+        {
+          "value": 0.0,
+          "id": 125
+        },
+        {
+          "value": 0.0,
+          "id": 126
+        },
+        {
+          "value": 0.0,
+          "id": 127
+        },
+        {
+          "value": 16.0,
+          "id": 128
+        },
+        {
+          "value": 0.0,
+          "id": 129
+        },
+        {
+          "value": 0.0,
+          "id": 130
+        },
+        {
+          "value": 0.0,
+          "id": 131
+        },
+        {
+          "value": 0.0,
+          "id": 132
+        },
+        {
+          "value": 0.0,
+          "id": 133
+        },
+        {
+          "value": 0.0,
+          "id": 134
+        },
+        {
+          "value": 0.0,
+          "id": 135
+        },
+        {
+          "value": 0.0,
+          "id": 136
+        },
+        {
+          "value": 0.0,
+          "id": 137
+        },
+        {
+          "value": 0.0,
+          "id": 138
+        }
+      ],
+      "leftModuleId": 7356585057259739,
+      "data": {
+        "moduleVersion": 1,
+        "currentStep": 9,
+        "direction": 0,
+        "clockState": false,
+        "runState": true,
+        "theme": 0
+      },
+      "pos": [
+        -54,
+        2
+      ]
+    },
+    {
+      "id": 7356585057259739,
+      "plugin": "ImpromptuModular",
+      "model": "Clocked-Clkd",
+      "version": "2.4.1",
+      "params": [
+        {
+          "value": 5.0,
+          "id": 0
+        },
+        {
+          "value": 0.0,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 120.0,
+          "id": 3
+        },
+        {
+          "value": 0.0,
+          "id": 4
+        },
+        {
+          "value": 0.0,
+          "id": 5
+        },
+        {
+          "value": 0.0,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.0,
+          "id": 8
+        },
+        {
+          "value": 0.0,
+          "id": 9
+        }
+      ],
+      "leftModuleId": 7214566279262076,
+      "rightModuleId": 489525482412301,
+      "data": {
+        "panelTheme": 0,
+        "panelContrast": 220.0,
+        "running": true,
+        "bpmDetectionMode": false,
+        "resetOnStartStop": 0,
+        "ppqn": 4,
+        "resetClockOutputsHigh": true,
+        "momentaryRunInput": true,
+        "forceCvOnBpmOut": false,
+        "displayIndex": 1,
+        "trigOuts": [
+          false,
+          false,
+          false,
+          false
+        ],
+        "clockMaster": -1
+      },
+      "pos": [
+        -64,
+        2
+      ]
+    },
+    {
+      "id": 3606187018561215,
+      "plugin": "VCV-Drums",
+      "model": "DrumMachine",
+      "version": "2.1.9",
+      "params": [
+        {
+          "value": 0.5,
+          "id": 0
+        },
+        {
+          "value": 0.5,
+          "id": 1
+        },
+        {
+          "value": 0.0,
+          "id": 2
+        },
+        {
+          "value": 0.5,
+          "id": 3
+        },
+        {
+          "value": 0.5,
+          "id": 4
+        },
+        {
+          "value": 1.0,
+          "id": 5
+        },
+        {
+          "value": 0.5,
+          "id": 6
+        },
+        {
+          "value": 0.0,
+          "id": 7
+        },
+        {
+          "value": 0.5,
+          "id": 8
+        },
+        {
+          "value": 0.5,
+          "id": 9
+        },
+        {
+          "value": 0.5,
+          "id": 10
+        },
+        {
+          "value": 0.5,
+          "id": 11
+        },
+        {
+          "value": 1.0,
+          "id": 12
+        },
+        {
+          "value": 0.5,
+          "id": 13
+        },
+        {
+          "value": 0.0,
+          "id": 14
+        },
+        {
+          "value": 0.5,
+          "id": 15
+        },
+        {
+          "value": 0.5,
+          "id": 16
+        },
+        {
+          "value": 1.0,
+          "id": 17
+        },
+        {
+          "value": 0.5,
+          "id": 18
+        },
+        {
+          "value": 0.5,
+          "id": 19
+        },
+        {
+          "value": 1.0,
+          "id": 20
+        },
+        {
+          "value": 0.5,
+          "id": 21
+        },
+        {
+          "value": 0.0,
+          "id": 22
+        },
+        {
+          "value": 0.5,
+          "id": 23
+        },
+        {
+          "value": 0.5,
+          "id": 24
+        },
+        {
+          "value": 0.0,
+          "id": 25
+        },
+        {
+          "value": 0.5,
+          "id": 26
+        },
+        {
+          "value": 0.5,
+          "id": 27
+        },
+        {
+          "value": 1.0,
+          "id": 28
+        },
+        {
+          "value": 0.5,
+          "id": 29
+        },
+        {
+          "value": 0.0,
+          "id": 30
+        },
+        {
+          "value": 0.5,
+          "id": 31
+        },
+        {
+          "value": 0.5,
+          "id": 32
+        },
+        {
+          "value": 0.5,
+          "id": 33
+        },
+        {
+          "value": 0.5,
+          "id": 34
+        },
+        {
+          "value": 1.0,
+          "id": 35
+        },
+        {
+          "value": 0.5,
+          "id": 36
+        },
+        {
+          "value": 0.0,
+          "id": 37
+        },
+        {
+          "value": 0.5,
+          "id": 38
+        },
+        {
+          "value": 0.5,
+          "id": 39
+        },
+        {
+          "value": 0.5,
+          "id": 40
+        },
+        {
+          "value": 0.5,
+          "id": 41
+        },
+        {
+          "value": 1.0,
+          "id": 42
+        },
+        {
+          "value": 0.5,
+          "id": 43
+        },
+        {
+          "value": 0.0,
+          "id": 44
+        },
+        {
+          "value": 0.5,
+          "id": 45
+        },
+        {
+          "value": 0.5,
+          "id": 46
+        },
+        {
+          "value": 0.5,
+          "id": 47
+        },
+        {
+          "value": 0.5,
+          "id": 48
+        },
+        {
+          "value": 1.0,
+          "id": 49
+        },
+        {
+          "value": 0.5,
+          "id": 50
+        },
+        {
+          "value": 0.0,
+          "id": 51
+        },
+        {
+          "value": 0.5,
+          "id": 52
+        },
+        {
+          "value": 0.5,
+          "id": 53
+        },
+        {
+          "value": 0.5,
+          "id": 54
+        },
+        {
+          "value": 0.5,
+          "id": 55
+        },
+        {
+          "value": 1.0,
+          "id": 56
+        },
+        {
+          "value": 0.5,
+          "id": 57
+        },
+        {
+          "value": 0.0,
+          "id": 58
+        },
+        {
+          "value": 0.5,
+          "id": 59
+        },
+        {
+          "value": 0.5,
+          "id": 60
+        },
+        {
+          "value": 0.5,
+          "id": 61
+        },
+        {
+          "value": 0.5,
+          "id": 62
+        },
+        {
+          "value": 1.0,
+          "id": 63
+        },
+        {
+          "value": 0.5,
+          "id": 64
+        },
+        {
+          "value": 0.0,
+          "id": 65
+        },
+        {
+          "value": 0.5,
+          "id": 66
+        },
+        {
+          "value": 0.5,
+          "id": 67
+        },
+        {
+          "value": 0.5,
+          "id": 68
+        },
+        {
+          "value": 0.5,
+          "id": 69
+        },
+        {
+          "value": 1.0,
+          "id": 70
+        },
+        {
+          "value": 0.5,
+          "id": 71
+        },
+        {
+          "value": 0.0,
+          "id": 72
+        },
+        {
+          "value": 1.0,
+          "id": 73
+        },
+        {
+          "value": 0.0,
+          "id": 74
+        },
+        {
+          "value": 0.0,
+          "id": 75
+        }
+      ],
+      "pos": [
+        -64,
+        3
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 1012291472450027,
+      "outputModuleId": 489525482412301,
+      "outputId": 8,
+      "inputModuleId": 3606187018561215,
+      "inputId": 0,
+      "color": "#3695ef"
+    },
+    {
+      "id": 8281304370601662,
+      "outputModuleId": 489525482412301,
+      "outputId": 9,
+      "inputModuleId": 3606187018561215,
+      "inputId": 5,
+      "color": "#8b4ade"
+    },
+    {
+      "id": 7592036789850731,
+      "outputModuleId": 489525482412301,
+      "outputId": 10,
+      "inputModuleId": 3606187018561215,
+      "inputId": 10,
+      "color": "#f3374b"
+    },
+    {
+      "id": 3521893920241544,
+      "outputModuleId": 489525482412301,
+      "outputId": 13,
+      "inputModuleId": 3606187018561215,
+      "inputId": 25,
+      "color": "#8b4ade"
+    },
+    {
+      "id": 4676768022525207,
+      "outputModuleId": 489525482412301,
+      "outputId": 12,
+      "inputModuleId": 3606187018561215,
+      "inputId": 20,
+      "color": "#f3374b"
+    },
+    {
+      "id": 8327644114019852,
+      "outputModuleId": 489525482412301,
+      "outputId": 14,
+      "inputModuleId": 3606187018561215,
+      "inputId": 30,
+      "color": "#00b56e"
+    },
+    {
+      "id": 408113775330224,
+      "outputModuleId": 489525482412301,
+      "outputId": 15,
+      "inputModuleId": 3606187018561215,
+      "inputId": 35,
+      "color": "#ffb437"
+    },
+    {
+      "id": 8828859166493228,
+      "outputModuleId": 489525482412301,
+      "outputId": 11,
+      "inputModuleId": 3606187018561215,
+      "inputId": 15,
+      "color": "#00b56e"
+    },
+    {
+      "id": 3950700750306041,
+      "outputModuleId": 7356585057259739,
+      "outputId": 1,
+      "inputModuleId": 489525482412301,
+      "inputId": 1,
+      "color": "#3695ef"
+    }
+  ]
+}
